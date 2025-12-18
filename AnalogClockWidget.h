@@ -18,7 +18,7 @@ protected:
 private:
     QTimer* timer;
 
-    void drawClockFace(QPainter& painter);
-    void drawHands(QPainter& painter);
+    // void drawClockFace(QPainter& painter);
+    // void drawHands(QPainter& painter);
 };
 #endif // ANALOGCLOCKWIDGET_H
